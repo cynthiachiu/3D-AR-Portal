@@ -53,6 +53,20 @@ View the live site on your mobile at: https://cynthia-3d-ar-portal.netlify.app/
 
 Uploading Demo.mp4…
 
+## :checkered_flag: How To Use
+
+```bash
+1. Using your phone, go to the demo at: https://cynthia-3d-ar-portal.netlify.app/
+2. See the `Enter AR` button at the bottom of the screen and click it
+3. Allow phone permissions to use the camera
+4. See the floating, distorting portal appear in front of you
+5. Pan your phone and walk around and see that the portal remains as is
+6. In your phone, tap the portal and see that you get transported to the new world
+7. See the floating portal shows your camera view of your surroundings but that you are in the new world
+8. Pan you phone about and see the 360 degree world that you are in
+9. Tap the portal to return back to your original surroundings
+10. Clik `Exit AR` to exit the experience
+```
 
 ## :sparkles: Features
 
@@ -88,22 +102,10 @@ $ npm i
 # Run the project
 $ npm start
 
-# The server will initialize in the <http://localhost:3000>. You can use the WebXR Device Emulator extension to view the application or you can use ngrok to generate a link and try on your mobile with the secure ngrok link.
+# The server will initialize in the <http://localhost:3000>. 
+You can use the WebXR Device Emulator extension to view the application. 
+Or, you can use ngrok to generate a link and try on your mobile with the secure ngrok link.
 ```
-
-## :checkered_flag: How To Use
-
-```bash
-1. Using your phone, go to ....website
-2. See the `Enter AR` button at the bottom of the screen and click it
-3. Allow phone permissions to use the camera
-4. See the floating, distorting portal appear in front of you
-5. Pan your phone and walk around and see that the portal remains as is
-6. In your phone, tap the portal and see that you get transported to the new world
-7. See the floating portal shows your camera view of your surroundings but that you are in the new world
-8. Pan you phone about and see the 360 degree world that you are in
-9. Tap the portal to return back to your original surroundings
-10. Clik `Exit AR` to exit the experience
 
 ## :memo: License
 
