@@ -50,12 +50,15 @@ An interactive, 3D augmented reality (AR) application featuring a floating, dist
 
 View the live site on your mobile at: https://cynthia-3d-ar-portal.netlify.app/
 
+
+Uploading Demo.mp4…
+
+
 ## :sparkles: Features
 
 :heavy_check_mark: WebXR augemented reality technology;\
 :heavy_check_mark: 3D rendering using ThreeJS;\
-:heavy_check_mark: 360 degree surroundings of the portal world with real-time view and panning movement via phone;
-:heavy_check_mark: 360 degree surroundings of the portal world with real-time view and panning movement via phone in skybox;
+:heavy_check_mark: 360 degree surroundings of the portal world with real-time view and panning movement via phone in a skybox texture;
 
 ## :rocket: Technologies
 
