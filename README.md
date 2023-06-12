@@ -50,8 +50,8 @@ An interactive, 3D augmented reality (AR) application featuring a floating, dist
 
 View the live site on your mobile at: https://cynthia-3d-ar-portal.netlify.app/
 
+https://github.com/cynthiachiu/3D-AR-Portal/assets/20048911/9e448aa5-4c7a-4feb-b47e-0e40da95a6c2
 
-Uploading Demo.mp4…
 
 ## :checkered_flag: How To Use
 
